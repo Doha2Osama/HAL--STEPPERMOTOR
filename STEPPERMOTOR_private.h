@@ -1,0 +1,6 @@
+#ifndef STEPPERMOTOR_PRIVATE_H
+#define STEPPERMOTOR_PRIVATE_H
+
+
+
+#endif
